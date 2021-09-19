@@ -1,0 +1,11 @@
+# Project exclude paths
+/hospital_db/target/
+/JDBCDemo/target/
+/MybatisDemo/target/
+/out/
+/servletDemo/target/
+/SpringDemo/target/
+/springmvcLearning/target/
+/springmvcLearning2/target/
+/superMarketMember/target/
+/TrainTicketSellAndManagementSys/target/
